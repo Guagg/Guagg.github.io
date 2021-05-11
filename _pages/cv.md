@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
- here](http://Guagg.github.io/files/CV-Gustavo.pdf)
+ [here](http://Guagg.github.io/files/CV-Gustavo.pdf)
 {% include base_path %}
