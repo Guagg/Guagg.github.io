@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gustavo García"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : " Data scientist specializing in statistics and probability"
   location         : "Zapopan, Jalisco, México"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,10 +99,10 @@ author:
   github           : "Guagg"
   google_plus      :
   keybase          :
-  instagram        : "Gusagg"
+  instagram        : "gustgargut"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/gustavo-garc%C3%ADa/"
+  linkedin         : "https://www.linkedin.com/in/gustavo-garc%C3%ADa/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
