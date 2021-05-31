@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Covid-19 in Mexico"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/ages.jpg'>"
 collection: portfolio
 ---
