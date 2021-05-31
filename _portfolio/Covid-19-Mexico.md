@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 in Mexico"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ages.jpg'>"
+excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment    <br/><img src='/images/ages.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The dataset is public and can be consulted [here](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).
