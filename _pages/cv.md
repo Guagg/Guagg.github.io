@@ -29,6 +29,10 @@ During this period Guanajuato' s students won several metals improving the resul
 Skills
 =====
 * Programing languajes
-  * Python
-  * R 
-  * Latex
+  * Python.
+  * R.
+  * LaTex
+Languges
+=====
+ * Spanish: Native speaker.
+ * English: C1.
