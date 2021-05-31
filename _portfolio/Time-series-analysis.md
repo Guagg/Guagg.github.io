@@ -1,10 +1,10 @@
 ---
 title: "Time series analysis"
-excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/ages.jpg'>"
+excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/TimeSeries/time_series.png'>"
 collection: portfolio
 ---
 
-The dataset is public and can be consulted [here](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).
+Using Google colab I created visualizations for a time series. 
 
 
- <br/><img src='/images/ages.jpg'>
+ <br/><img src='/images/TimeSeries/Density.png'>
