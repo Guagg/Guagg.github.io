@@ -11,4 +11,4 @@ The dataset is public and can be consulted [here](https://datos.gob.mx/busca/dat
 <br/><img src='/images/Covid19/edad.png'>
 <br/><img src='/images/Covid19/TD.png'>
 <br/><img src='/images/Covid19/TH.png'>
-<br/><img src='/images/Covid19/Captura.png'>
+<br/><img src='/images/Covid19/Captura.PNG'>
