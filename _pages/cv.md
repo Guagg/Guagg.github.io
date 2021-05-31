@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
- [In pdf format](http://Guagg.github.io/files/CV-GAGG.pdf)
-{% include base_path %}
+Mathematician specialized in statistics and probability, interested in mathematical modeling and risk. Well-versed in numerous programming languages and data visualization tools. 
 
 
 Education
@@ -37,3 +36,9 @@ Languges
 =====
  * Spanish: Native speaker.
  * English: C1.
+
+
+
+
+ [In pdf format](http://Guagg.github.io/files/CV-GAGG.pdf)
+{% include base_path %}
