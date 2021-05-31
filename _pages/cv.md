@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
- [In pdf format](http://Guagg.github.io/files/CV-Gustavo.pdf)
+ [In pdf format](http://Guagg.github.io/files/CV-GAGG.pdf)
 {% include base_path %}
 
 
