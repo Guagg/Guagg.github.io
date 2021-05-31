@@ -1,10 +1,14 @@
 ---
 title: "Time series analysis"
-excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/TimeSeries/time_series.png'>"
+excerpt: "Analysis of a time series    <br/><img src='/images/TimeSeries/time_series.png'>"
 collection: portfolio
 ---
 
 Using Google colab I created visualizations for a time series. 
 
-
- <br/><img src='/images/TimeSeries/Density.png'>
+<br/><img src='/images/TimeSeries/time_series.png'>
+<br/><img src='/images/TimeSeries/densidad.png'>
+<br/><img src='/images/TimeSeries/additive_decomposition.png'>
+<br/><img src='/images/TimeSeries/additive_decomposition2.png'>
+<br/><img src='/images/TimeSeries/heat_map1.png'>
+ <br/><img src='/images/TimeSeries/heat_map2.png'>   
