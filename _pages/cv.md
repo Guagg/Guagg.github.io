@@ -10,30 +10,30 @@ redirect_from:
 Mathematician specialized in statistics and probability, interested in mathematical modeling and risk. Well-versed in numerous programming languages and data visualization tools. 
 
 
-Education
-======
+### Education
+ 
 * B.S. in Mathematics, Universidad de Guanajuato, 2018
 * M.S. in Probability and Statistics, CIMAT, 2021
 
-Teaching
-======
+### Teaching
+
 * During 4 semesters I was teaching assistant for the math department of the University of Guanajuato. In this project I cooperated with teachers to create a learning environment for undergraduate math students in the courses of Calculus I, Calculus II, Elementary Math and Modern Algebra III. My main task were imparting a weekly tutoring session and grading assignments.
 
 
-Voluntaring
-======
+### Voluntaring
+
 * I was part of the Guanajuato's Math Olympiad Commitee. During this time I participated in the selection and training of high school students that represented Guananato at the national math Olympiad (ONM).
 During this period Guanajuato' s students won several metals improving the results of previous years.
   
-Skills
-=====
+### Skills
+
 * Programing languajes
   * Python.
   * R.
   * LaTex.
  
-Languges
-=====
+### Languges
+
  * Spanish: Native speaker.
  * English: C1.
 
