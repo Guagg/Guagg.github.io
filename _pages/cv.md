@@ -31,7 +31,8 @@ Skills
 * Programing languajes
   * Python.
   * R.
-  * LaTex
+  * LaTex.
+ 
 Languges
 =====
  * Spanish: Native speaker.
