@@ -1,6 +1,6 @@
 ---
 title: "Time series analysis"
-excerpt: "Analysis of a time series    <br/><img src='/images/TimeSeries/time_series.png' width="400" height=auto>"
+excerpt: "Analysis of a time series    <br/><img src='/images/TimeSeries/time_series.png'>"
 collection: portfolio
 ---
 
