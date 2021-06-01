@@ -6,13 +6,29 @@ header-includes: |
     \usepackage{tikz,pgfplots}
 ---
 
-The dataset is public and can be consulted [here](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).
+The dataset is public and is periodically update can be consulted [here](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico).
+I made this analysis at the begining of the Covid-19 Pandemic in Mexico the data was consulted in April 2020.
+<br/>
+The next graph show us the new cases per day.
 
 <br/><img src='/images/Covid19/nd.png' width="500" height=auto>
+
+We can see the cumulative confirmed cases. 
+
 <br/><img src='/images/Covid19/ct.png' width="500" height=auto>
+In the next graph we have the distribution of the age of the patients.
 <br/><img src='/images/Covid19/edad.png' width="500" height=auto>
-<br/><img src='/images/Covid19/TD.png' width="500" height=auto>
+
+
+The next graph show us the time between the onset of symptoms and hospitalization.
 <br/><img src='/images/Covid19/TH.png' width="500" height=auto>
+
+
+
+The next graph show us the time between the onset of symptoms and death.
+
+<br/><img src='/images/Covid19/TD.png' width="500" height=auto>
+
 
 We ajust a logist model in oder to predict if a patient is going to required intensive care (ICU) or not based on the comorbidities. 
 the logistic ecuation is
