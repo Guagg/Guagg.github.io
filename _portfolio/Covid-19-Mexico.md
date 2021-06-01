@@ -33,9 +33,9 @@ We ajust a logist model in oder to predict if a patient is going to required int
 the logistic ecuation is
 <br/>
 $$
-P(Y=1|X=x)=\frac{1}{1+e^{-\theta^tx}}
+P(Y=1|X=x)=\frac{1}{1+e^{-\theta^tx}}.
 $$
 <br/>
-and using the maximun likehood principle we can find the vector of coefitients $\theta$. After that we made a hypothesis test in order to find wich variables are significant to predict the probability of requiring ICU.
+Using the maximun likehood principle we can find the vector of coefitients $\theta$. After that we made a hypothesis test in order to find wich variables are significant to predict the probability of requiring ICU.
 <br/><img src='/images/Covid19/Captura.PNG'  width="500" height=auto>
 
