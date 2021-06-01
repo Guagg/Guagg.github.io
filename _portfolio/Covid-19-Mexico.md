@@ -1,6 +1,6 @@
 ---
 title: "Covid-19 in Mexico"
-excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/ages.jpg'  width="500" height=auto>"
+excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/ages.jpg'  >"
 collection: portfolio
 ---
 
