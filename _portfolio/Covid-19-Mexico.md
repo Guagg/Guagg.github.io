@@ -1,6 +1,6 @@
 ---
 title: "Covid-19 in Mexico"
-excerpt: "Some statitis extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/ages.jpg'  >"
+excerpt: "Some statistics extrated from the open dataset from the Mexican Goverment.    <br/><img src='/images/ages.jpg'  >"
 collection: portfolio
 header-includes: |
     \usepackage{tikz,pgfplots}
